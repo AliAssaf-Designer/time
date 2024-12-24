@@ -68,6 +68,12 @@
 }
 
 @media (max-width: 768px){
+    #outerBox{
+        width: 50%;
+    }
+    #innerBox{
+        width: 85%;
+    }
     #time{
         width: 85%;
     }
